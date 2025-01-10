@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ottobervoets
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me ottobervoets@gmail.com
+Hi I'm Otto Bervoets, a Dutch master student Artificial Inteligence with soon a double masters in AI and Econometrics. 
 
-<!---
-ottobervoets/ottobervoets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+e-mail: firstname + lastname @ gmail.com
+
+You can also find me on LinkedIn
